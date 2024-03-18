@@ -1,0 +1,5 @@
+banana fruit 15
+Test test 50
+Apple fruit 50
+banana 15 120
+patato chips 10
