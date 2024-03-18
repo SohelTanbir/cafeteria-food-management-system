@@ -26,11 +26,26 @@ and additional functionalities for enhanced food system operations.
 | 7      | Ejaj Ahmed        | Designer                     | 23305012   | 01704706052 |
 
 
-## Usage
-Instructions for using the project.
+## Individual Tasks:
+First of all, we work as a team. Every team member takes his/her responsibility
+and completes it within the budget time. The team lead will oversee project
+coordination, conduct timely milestone reviews, and ensure the project
+progresses according to the established timeline. All team members will actively
+participate in iterative development, user feedback sessions, and documentation
+throughout the project.
 
-## Contributing
-Guidelines for contributing to the project.
+## Tools and Technologies:
+### Programming Language
+The CUB Food System has been developed using the C++ programming language,
+known for its efficiency and simplicity in system-level programming.
+## development environment
+We CodeBlock integrated development environment (IDE) for C++ programming,
+ensuring a smooth and efficient coding process.
+## Database Management System:
+We used a text file (.txt) as our Application database. We store the food menu in a text
+file and read, write, and finally show the result.
+Version Control System:
+We use Git and GitHub to control our software version and collaborate with
+our team.
+# Thanks For Your Time
 
-## License
-Specify the license for the project.
