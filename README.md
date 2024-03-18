@@ -15,7 +15,7 @@ and additional functionalities for enhanced food system operations.
     - Search By Category
 
 ## Team Members And Role
-| Number | Student Name      | Student Role                 | Student ID | Phone       |
+| SI |  Name      |  Role                 |  ID | Phone       |
 |--------|-------------------|------------------------------|------------|-------------|
 | 1      | Sohel Rana        | Group Leader & Project Manager | 23305013   | 01774232515 |
 | 2      | Mehedi Hassah     | Backend Developer            | 23305017   | 01912716966 |
