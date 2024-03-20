@@ -1,15 +1,15 @@
 # Project Name: Cafeteria Management System using C++
 #### Object-Oriented Programming Language Sessional CSE-1202(2)
 
-Develop a CUB Food System using the C++ programming language for
-efficient food management. This system aims to streamline foodrelated
+Develop a Cafeteria Food Management System using the C++ programming language for
+efficient food management. This system aims to streamline food-related
 processes, including Add new Food, View All Food Menu, Searing, Sorting
-and additional functionalities for enhanced food system operations.
+, and additional functionalities for enhanced food system operations.
 
 ## Project Features:
-- ADD NEW FOOD MENU
-- SHOW ALL FOOD MENU LIST
-- SEARCH FOOD MENU
+- Add New Food Menu 
+- Show All Food Menu List
+- Search Food Menu By
     - Search By Specific Price
     - Search By Under Price
     - Search By Category
