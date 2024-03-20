@@ -19,11 +19,11 @@ processes, including Add new Food, View All Food Menu, Searing, Sorting
 |--------|-------------------|------------------------------|------------|-------------|
 | 1      | Sohel Rana        | Group Leader & Project Manager | 23305013   | 01774232515 |
 | 2      | Mehedi Hassah     | Backend Developer            | 23305017   | 01912716966 |
-| 3      | Afif Radoan       | Front-end Developer          | 23305028   | 01710680309 |
-| 4      | Sakibur Rahman    | Front-end Developer          | 23305015   | 01957212609 |
-| 5      | MD.Simon Hossain  | Sourav Researcher            | 23305030   | 01627490510 |
-| 6      | Sifath Afrin      | Designer                     | 23305007   | 01878093242 |
-| 7      | Ejaj Ahmed        | Designer                     | 23305012   | 01704706052 |
+| 3      | Afif Radoan       | Project Planning             | 23305028   | 01710680309 |
+| 4      | Sakibur Rahman    | Issues Finding               | 23305015   | 01957212609 |
+| 5      | MD.Simon Hossain  | Presentation making          | 23305030   | 01627490510 |
+| 6      | Sifath Afrin      | Resource Geathering          | 23305007   | 01878093242 |
+| 7      | Ejaj Ahmed        | Code Review                  | 23305012   | 01704706052 |
 
 
 ## Individual Tasks:
