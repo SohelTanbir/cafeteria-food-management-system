@@ -1,4 +1,4 @@
-# Project Name: Cafeteria Management System using C++
+# Project Name: Cafeteria Food Management System using C++
 #### Object-Oriented Programming Language Sessional CSE-1202(2)
 
 Develop a Cafeteria Food Management System using the C++ programming language for
